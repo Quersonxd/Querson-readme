@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Querson
+- 👀 I’m interested in Fivem LUA, HTML, JS
+- 🌱 I’m currently learning Fivem LUA, HTML, JS
